@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import REACTGA from "react-ga";
 import React from "react";
 
-const TRACKING_ID = "G-WCC55R5EL0";
+const TRACKING_ID = "G-87MR5FL9RG";
 REACTGA.initialize(TRACKING_ID)
 
 function App() {
